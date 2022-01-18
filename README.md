@@ -1,1 +1,1 @@
-# line_length
+Welcome to Line Comparison Computation Program
